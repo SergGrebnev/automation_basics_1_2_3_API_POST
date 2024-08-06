@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/9rtnith6bwxwisgi?svg=true)](https://ci.appveyor.com/project/SergGrebnev/automation-basics-1-2-3-api-post)
+
 ## Задача №3: Postman Echo
 
 **Важно**: эту задачу нужно выполнять в отдельном репозитории.
